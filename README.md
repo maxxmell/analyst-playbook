@@ -15,7 +15,7 @@
 ### Как использовать
 - Кликай по ссылкам — файлы откроются в браузере.  
 - Для запуска: `jupyter notebook` (локально).  
-- Обновляется ежемесячно. Pull requests welcome.
+- Обновляется при необходимости. Pull requests welcome.
 
 ### Автор
 [GitHub профиль](https://github.com/maxxmell) 
