@@ -9,13 +9,13 @@
 ### Содержание
 
 - [SQL: Шаблоны и функции](SQL_CHEAT_SHEET.ipynb) — CTE, оконные, оптимизация (PostgreSQL).  
-- [Python: Аналитика и визуализация](PYTHON_ANALYTICS.ipynb) — Pandas, Matplotlib, Seaborn.  
+- [Python: Аналитика и визуализация](PYTHON_ANALYTICS.ipynb) — Pandas, Matplotlib, Seaborn, Folium.  
 - [DAX: Ключевые функции](DAX_REFERENCE.ipynb) — CALCULATE, YoY, контекст (Power BI).  
 
 ### Как использовать
 - Кликай по ссылкам — файлы откроются в браузере.  
 - Для запуска: `jupyter notebook` (локально).  
-- Обновляется ежемесячно. Pull requests welcome.
+- Обновляется при необходимости. Pull requests welcome.
 
 ### Автор
 [GitHub профиль](https://github.com/maxxmell) 
