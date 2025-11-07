@@ -12,7 +12,7 @@
 - [Python: Аналитика и визуализация](PYTHON_ANALYTICS.ipynb) — Pandas, Matplotlib, Seaborn, Folium.  
 - [DAX: Ключевые функции](DAX_REFERENCE.ipynb) — CALCULATE, YoY, контекст (Power BI).  
 - [GIT: основные команды](GIT_CHEAT_SHEET.ipynb) — Быстрый старт + продвинутые команды.  
-
+ 
 ### Как использовать
 - Кликай по ссылкам — файлы откроются в браузере.  
 - Для запуска: `jupyter notebook` (локально).  
